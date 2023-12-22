@@ -13,6 +13,7 @@
 	margin: 15px;
 }
 
+
 .calculator {
 	background-color: #22252D;
 	width: 100%;
@@ -114,4 +115,7 @@
 
 .keys .key.action span {
 	color: #26FED7;
+}
+.display .brackets{
+	display: flex
 }
